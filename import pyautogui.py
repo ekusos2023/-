@@ -13,4 +13,4 @@ def auto_click(x, y, interval=6):
         pyautogui.rightClick(x, y)
         time.sleep(interval)
           
-auto_click(477,176) 
+auto_click(,) 
